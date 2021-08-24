@@ -1,0 +1,88 @@
+﻿[MeshBuilder]
+Vertex -200, 0, 0
+Vertex -200, 0, 25
+Vertex 200, 0, 25
+Vertex 200, 0, 0
+Face2 0, 1, 2, 3
+Load ground.png
+Coordinates 0, 0, 3
+Coordinates 1, 0, 0
+Coordinates 2, 36, 0
+Coordinates 3, 36, 3
+
+[MeshBuilder]
+Vertex -200, 0, 0
+Vertex -200, -0.2, -5
+Vertex 200, -0.2, -5
+Vertex 200, 0, 0
+Face2 3, 2, 1, 0
+Load ground.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 10, 0
+Coordinates 3, 10, 1
+
+[MeshBuilder]
+Vertex -35, 0, 12
+Vertex -35, 8, 12
+Vertex -30, 8, 15
+Vertex -30, 0, 15
+Face2 0, 1, 2, 3
+Load tree1.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+Transparent 0, 0, 255
+
+[MeshBuilder]
+Vertex -17, 0, 10
+Vertex -17, 8, 10
+Vertex -19, 8, 6
+Vertex -19, 0, 6
+Face2 0, 1, 2, 3
+Load tree2.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+Transparent 0, 0, 255
+
+[MeshBuilder]
+Vertex -19, 0, 8
+Vertex -19, 8, 8
+Vertex -21, 8, 3
+Vertex -21, 0, 3
+Face2 0, 1, 2, 3
+Load tree2.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+Transparent 0, 0, 255
+
+[MeshBuilder]
+Vertex 43, 0, 10
+Vertex 43, 8, 10
+Vertex 40, 8, 13
+Vertex 40, 0, 13
+Face2 0, 1, 2, 3
+Load tree1.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+Transparent 0, 0, 255
+
+[MeshBuilder]
+Vertex 38, 0, 12
+Vertex 38, 8, 12
+Vertex 35, 8, 15
+Vertex 35, 0, 15
+Face2 0, 1, 2, 3
+Load tree1.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+Transparent 0, 0, 255

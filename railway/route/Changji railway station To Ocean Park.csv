@@ -1,0 +1,124 @@
+With Route
+.Gauge 1435
+.Comment The route: LeoQingyuan
+.Change 1
+With Train
+.File E101
+With Structure
+.Ground(0) (ground/ground1.b3d)
+.Ground(1) (ground/ground2.b3d)
+.Ground(2) (ground/ground3.b3d)
+.rail(0) (rails/rail.csv)
+.rail(1) (rails/rail_L_329.csv)
+.rail(2) (rails/rail_R_329.csv)
+.Freeobj(1) (forms/formL.csv)
+.Freeobj(2) (forms/formR.csv)
+.Freeobj(3) (forms/formCL.csv)
+.Freeobj(4) (forms/formCR.csv)
+.Freeobj(5) (forms/roofCL.csv)
+.Freeobj(6) (forms/roofCR.csv)
+.Freeobj(7) (forms/roofL.csv)
+.Freeobj(8) (forms/roofR.csv)
+With Texture
+.BackGround(0) forms/background.png
+With Track
+1000
+.Height 0.3
+.Sta(Changji Railway Station;10.0000;10.0030;;;;L;;;;30)
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+1025
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1050
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1075
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1100
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1125
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1150
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1175
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+1200
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Stop 1
+1500
+.RailType(0;1)
+.curve(-300)
+1600
+.curve(0)
+.RailType(0;0)
+1700
+.RailType(0;2)
+.curve(300)
+1800
+.RailType(0;0)
+.curve(0)
+2000
+.Height 0.3
+.Sta(Dongyang Square;10.0130;10.0200;;;;L;;;;30)
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+2025
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2050
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2075
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2100
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2125
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2150
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2175
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Freeobj 0;5;0
+.Freeobj 0;7;0
+2200
+.Freeobj 0;1;0
+.Freeobj 0;3;0
+.Stop 1
